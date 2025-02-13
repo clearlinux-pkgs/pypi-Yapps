@@ -7,7 +7,7 @@
 #
 Name     : pypi-Yapps
 Version  : 2.2.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/7a/53/e6b985ee650378b985c2f7fa74242b64554ddb06740bfe8b0a758b868832/Yapps-2.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7a/53/e6b985ee650378b985c2f7fa74242b64554ddb06740bfe8b0a758b868832/Yapps-2.2.0.tar.gz
 Summary  : Yet Another Python Parser System
